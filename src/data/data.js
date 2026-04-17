@@ -118,7 +118,7 @@ export const projects = [
   {
     id: 7,
     category: "web",
-    title: "API DEL Documentation",
+    title: "Web API DEL Documentation",
     description: "Dokumentasi untuk API DEL yang memungkinkan pengguna membuat, mengedit, dan menghapus postingan. Dibangun dengan React, menggunakan PostgreSQL untuk penyimpanan lokal.",
     thumbnail: "",
     tags: ["React", "PgSQL", "Laravel", "PHP"],
