@@ -115,6 +115,17 @@ export const projects = [
     demoLink: null,
     year: "2026",
   },
+  {
+    id: 7,
+    category: "web",
+    title: "API DEL Documentation",
+    description: "Dokumentasi untuk API DEL yang memungkinkan pengguna membuat, mengedit, dan menghapus postingan. Dibangun dengan React, menggunakan PostgreSQL untuk penyimpanan lokal.",
+    thumbnail: "",
+    tags: ["React", "PgSQL", "Laravel", "PHP"],
+    link: "https://github.com/yourname/project",
+    demoLink: null,
+    year: "2026",
+  },
 ];
 
 // ============================================================
